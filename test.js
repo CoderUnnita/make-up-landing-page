@@ -18,3 +18,4 @@ if ($age<18){
 else{
     console.log("Eligible!");
 }
+const yo=
